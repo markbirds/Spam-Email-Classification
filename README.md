@@ -16,8 +16,15 @@ https://www.kaggle.com/nitishabharathi/email-spam-dataset
 ### Screenshots
 
 ![screenshot1](server/screenshots/sc_1.PNG)
+
+---
+
 ![screenshot2](server/screenshots/sc_2.PNG)
+
+---
+
 ![screenshot3](server/screenshots/sc_3.PNG)
+
 
 ### License
 
