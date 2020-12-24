@@ -1,7 +1,10 @@
 ## Spam Email Classification
 
-### Jupyter notebook used in Data analysis and Model Building
+### Jupyter notebook used in Data analysis and Model building
 https://github.com/markbirds/Spam-Email-Classifier/blob/master/model/spam-email-classifier.ipynb
+
+### Try it on
+https://mb-spam-email-classifier.herokuapp.com/
 
 ### Model score
 ```
